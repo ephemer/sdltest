@@ -7,11 +7,26 @@
 		<key>Testumgebung.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>5C66D67A1C40D1B50041AAB4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5C66D6921C40D6AD0041AAB4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5C66D6AC1C40D8110041AAB4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>5CB87EE31C40A30D003C042F</key>
 		<dict>
 			<key>primary</key>
